@@ -11,7 +11,7 @@ Este projeto utiliza inteligência artificial para conectar pessoas que desejam 
     * **No computador:** Clique com o botão direito na imagem e selecione "Copiar endereço da imagem" (ou opção similar).
     * **No celular:** Pressione e segure a imagem e selecione "Copiar link da imagem" (ou opção similar).
     * **Exemplo:** 
-        ![Como copiar o link da imagem](captura_de_tela.png)
+       ![Como copiar o link da imagem](https://drive.google.com/uc?id=1IB2_Exu9ujE3yBLzsjWAOv9dZX22VdjP)
 3. **Cole o link no sistema:** Insira o link copiado na interface do programa.
 4. **Identificação da cidade:** O sistema, usando o modelo de linguagem grande Gemini, analisa a imagem e identifica a cidade onde a foto foi tirada. 
 5. **Lista de ONGs:** O sistema fornece uma lista das principais ONGs que atuam na cidade afetada, incluindo seu foco de atuação e informações de contato.
